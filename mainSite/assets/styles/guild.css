@@ -1,0 +1,20 @@
+body {
+  background-color: #404040;
+}
+
+.site-heading > h1, hr, span{
+
+}
+
+.post-preview h2, h3 {
+  color: #fff;
+}
+
+.post-subtitle h3 {
+  color: #fff;
+}
+
+.post-preview {
+  background-color: #111;
+  padding: 30px;
+}
