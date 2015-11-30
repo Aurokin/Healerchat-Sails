@@ -2,7 +2,7 @@ body {
   background-color: #404040;
   background: #17142d url('http://i.imgur.com/VSThQxd.png') no-repeat top center;
   background-size: cover;
-  background-color: fixed;
+  background-attachment: fixed;
 }
 
 .intro-header {
