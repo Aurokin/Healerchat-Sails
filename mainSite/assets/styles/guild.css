@@ -10,11 +10,32 @@ body {
   color: #fff;
 }
 
-.post-subtitle h3 {
+.post-subtitle h3, a {
   color: #fff;
+}
+
+.post-image img {
+  width: 100%
 }
 
 .post-preview {
   background-color: #111;
   padding: 30px;
+}
+
+.iconContainer {
+  height: 33px;
+  width: 33px;
+  display: inline-block;
+  overflow: hidden;
+  background-position: center;
+  background-size: cover;
+  border: 1px solid black;
+}
+
+.icon {
+  height: 40px;
+  width: 40px;
+  margin-left: -10%;
+  margin-top: -10%;
 }
