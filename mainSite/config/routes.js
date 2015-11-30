@@ -38,6 +38,15 @@ module.exports.routes = {
   '/post': {
     view: 'post'
   },
+  '/sales': {
+    view: 'sales'
+  },
+  '/faq': {
+    view: 'faq'
+  },
+  '/apply': {
+    view: 'apply'
+  },
 
   /***************************************************************************
   *                                                                          *
