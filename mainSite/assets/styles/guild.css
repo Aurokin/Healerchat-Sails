@@ -1,12 +1,14 @@
 body {
   background-color: #404040;
-  background: #17142d url('http://i.imgur.com/GenjZNZ.png') no-repeat top center;
+  background: #17142d url('http://i.imgur.com/2iCrZwN.png') no-repeat top center;
   background-size: cover;
   background-attachment: fixed;
 }
 
 .intro-header {
   margin-bottom: 25px;
+  background-image: url('http://i.imgur.com/6VNxKPV.png');
+  border-bottom: 10px solid white;
 }
 
 .site-heading > h1, hr, span{
